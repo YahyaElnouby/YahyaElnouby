@@ -1,4 +1,4 @@
-### Hi there, I'm Yahya Mohamed [website] 👋 
+### Hi there, I'm [Yahya Mohamed] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Yahya_Elnouby26?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Yahya_Elnouby26)
 
@@ -34,6 +34,7 @@
 
 ---
 
+[Yahya Mohamed]: https://yahyaelnouby.github.io
 [website]: https://yahyaelnouby.github.io
 [twitter]: https://twitter.com/Yahya_Elnouby26
 [instagram]: https://instagram.com/yahya.mohamed26
