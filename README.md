@@ -4,7 +4,7 @@
 
 ## I'm a Web and Game Developer
 
-- 🌱 I’m currently learning React Native and Spring Framework.
+- 🌱 I’m currently learning React Native and Spring Boot.
 - 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
