@@ -37,8 +37,8 @@
 
 ---
 
-[Yahya Mohamed]: https://yahyaelnouby.github.io
-[website]: https://yahyaelnouby.github.io
+[Yahya Mohamed]: https://yahyamohamed26.github.io
+[website]: https://yahyamohamed26.github.io
 [twitter]: https://twitter.com/Yahya_Elnouby26
 [instagram]: https://instagram.com/yahya.mohamed26
 [linkedin]: https://linkedin.com/in/yahyaelnouby
