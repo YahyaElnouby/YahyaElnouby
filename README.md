@@ -2,10 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Yahya_Elnouby26?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Yahya_Elnouby26)
 
-## I'm a Web and Game Developer
-
-- 🌱 I’m currently learning React Native and Spring Boot.
-- 🥅 2022 Goals: Contribute to Open Source projects
+## I'm a Web Developer
 
 ### Connect with me:
 
